@@ -1,0 +1,10 @@
+C:\Users\Donprecious\documents\visual studio 2017\Projects\CrExtApiCore\CrExtApiCore\bin\Debug\netcoreapp2.0\CrExtApiCore.deps.json
+C:\Users\Donprecious\documents\visual studio 2017\Projects\CrExtApiCore\CrExtApiCore\bin\Debug\netcoreapp2.0\CrExtApiCore.runtimeconfig.json
+C:\Users\Donprecious\documents\visual studio 2017\Projects\CrExtApiCore\CrExtApiCore\bin\Debug\netcoreapp2.0\CrExtApiCore.runtimeconfig.dev.json
+C:\Users\Donprecious\documents\visual studio 2017\Projects\CrExtApiCore\CrExtApiCore\bin\Debug\netcoreapp2.0\CrExtApiCore.dll
+C:\Users\Donprecious\documents\visual studio 2017\Projects\CrExtApiCore\CrExtApiCore\bin\Debug\netcoreapp2.0\CrExtApiCore.pdb
+C:\Users\Donprecious\documents\visual studio 2017\Projects\CrExtApiCore\CrExtApiCore\obj\Debug\netcoreapp2.0\CrExtApiCore.csproj.CoreCompileInputs.cache
+C:\Users\Donprecious\documents\visual studio 2017\Projects\CrExtApiCore\CrExtApiCore\obj\Debug\netcoreapp2.0\CrExtApiCore.AssemblyInfoInputs.cache
+C:\Users\Donprecious\documents\visual studio 2017\Projects\CrExtApiCore\CrExtApiCore\obj\Debug\netcoreapp2.0\CrExtApiCore.AssemblyInfo.cs
+C:\Users\Donprecious\documents\visual studio 2017\Projects\CrExtApiCore\CrExtApiCore\obj\Debug\netcoreapp2.0\CrExtApiCore.dll
+C:\Users\Donprecious\documents\visual studio 2017\Projects\CrExtApiCore\CrExtApiCore\obj\Debug\netcoreapp2.0\CrExtApiCore.pdb

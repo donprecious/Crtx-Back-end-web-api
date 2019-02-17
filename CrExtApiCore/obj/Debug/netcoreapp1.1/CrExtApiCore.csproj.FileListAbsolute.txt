@@ -1,0 +1,11 @@
+c:\users\donprecious\documents\visual studio 2017\Projects\CrExtApiCore\CrExtApiCore\bin\Debug\netcoreapp1.1\CrExtApiCore.deps.json
+c:\users\donprecious\documents\visual studio 2017\Projects\CrExtApiCore\CrExtApiCore\bin\Debug\netcoreapp1.1\CrExtApiCore.runtimeconfig.json
+c:\users\donprecious\documents\visual studio 2017\Projects\CrExtApiCore\CrExtApiCore\bin\Debug\netcoreapp1.1\CrExtApiCore.runtimeconfig.dev.json
+c:\users\donprecious\documents\visual studio 2017\Projects\CrExtApiCore\CrExtApiCore\bin\Debug\netcoreapp1.1\CrExtApiCore.dll
+c:\users\donprecious\documents\visual studio 2017\Projects\CrExtApiCore\CrExtApiCore\bin\Debug\netcoreapp1.1\CrExtApiCore.pdb
+c:\users\donprecious\documents\visual studio 2017\Projects\CrExtApiCore\CrExtApiCore\obj\Debug\netcoreapp1.1\CrExtApiCore.AssemblyInfo.cs
+c:\users\donprecious\documents\visual studio 2017\Projects\CrExtApiCore\CrExtApiCore\obj\Debug\netcoreapp1.1\CrExtApiCore.dll
+c:\users\donprecious\documents\visual studio 2017\Projects\CrExtApiCore\CrExtApiCore\obj\Debug\netcoreapp1.1\CrExtApiCore.pdb
+C:\Users\Donprecious\documents\visual studio 2017\Projects\CrExtApiCore\CrExtApiCore\obj\Debug\netcoreapp1.1\CrExtApiCore.csprojAssemblyReference.cache
+C:\Users\Donprecious\documents\visual studio 2017\Projects\CrExtApiCore\CrExtApiCore\obj\Debug\netcoreapp1.1\CrExtApiCore.csproj.CoreCompileInputs.cache
+C:\Users\Donprecious\documents\visual studio 2017\Projects\CrExtApiCore\CrExtApiCore\obj\Debug\netcoreapp1.1\CrExtApiCore.AssemblyInfoInputs.cache
